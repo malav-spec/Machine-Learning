@@ -1,6 +1,6 @@
-#Fashion Classification using GMM
 
-Classifying Fashion Images Using Gaussian Mixture Models
+
+**Classifying Fashion Images Using Gaussian Mixture Models**
 
 Goal is to use Gaussian Mixture Models in a generative classifier for classifying images into the ten Fashion classes.
 
