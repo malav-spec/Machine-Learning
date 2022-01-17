@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis using Support Vector Machines
+**Twitter Sentiment Analysis using Support Vector Machines**
 
 Binary sentiment classification: We will consider the problem of predicting sentiment from tweets. We will formulate this as a binary classification problem where one class consists of positive or neutral tweets and the other class consists of negative tweets.
 
